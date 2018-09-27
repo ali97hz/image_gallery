@@ -1,15 +1,10 @@
 {
-  "name": "",
+  "name": "prj",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
-  "homepage": "https://ali97hz.github.io/ImageGallery",
-  "dependencies": {
-    "gh-pages": "^2.0.0"
-  },
-  "devDependencies": {},
+  "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,5 +14,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ali97hz/ImageGallery/issues"
-  }
+  },
+  "homepage": "https://github.com/ali97hz/ImageGallery#readme"
 }
