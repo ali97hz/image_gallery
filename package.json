@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://ali97hz.github.io/image_gallery",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ali97hz/ImageGallery.git"
+    "url": "git+https://github.com/ali97hz/image_gallery.git"
   },
   "author": "alihz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ali97hz/ImageGallery/issues"
-  },
-  "homepage": "https://github.com/ali97hz/ImageGallery#readme"
+    "url": "https://github.com/ali97hz/image_gallery/issues"
+  }
 }
